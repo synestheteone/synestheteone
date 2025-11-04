@@ -4,14 +4,14 @@
 
 ---
 
-Software engineer specializing in **full-stack development** and **AI/ML integration**. With extensive experience in building scalable applications. I focus on creating products that deliver exceptional user experiences.
+Software engineer specializing in **full-stack development** and **AI integration**. With extensive experience in building scalable applications. I focus on creating products that deliver exceptional user experiences.
 
 ### Core Expertise
 
 - **Backend Development**: Nest.js, Node.js, Go
 - **Frontend Development**: Next.js, React.js, React Native, Expo
 - **Database**: PostgreSQL, MongoDB
-- **AI/ML**: LLM Integration, RAG Architecture, SLM Optimization
+- **AI**: AI Integration, RAG Architecture, SLM Optimization
 - **Engineering Practices**: System Design, Product-focused Engineering
 
 ---
