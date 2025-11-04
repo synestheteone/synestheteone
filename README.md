@@ -40,13 +40,3 @@ Software engineer specializing in **full-stack development** and **AI/ML integra
 ### Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Specializations
-
-- **LLM Integration** - Building intelligent applications with Large Language Models
-- **RAG Architecture** - Implementing Retrieval-Augmented Generation systems
-- **SLM Optimization** - Optimizing Small Language Models for efficiency
-- **System Design** - Architecting scalable and maintainable systems
-- **Product-focused Engineering** - Delivering value-driven solutions
