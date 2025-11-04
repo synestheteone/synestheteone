@@ -34,8 +34,8 @@ Software engineer specializing in **full-stack development** and **AI/ML integra
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -45,8 +45,8 @@ Software engineer specializing in **full-stack development** and **AI/ML integra
 
 ## Specializations
 
-- 🔗 **LLM Integration** - Building intelligent applications with Large Language Models
-- 🧠 **RAG Architecture** - Implementing Retrieval-Augmented Generation systems
-- ⚡ **SLM Optimization** - Optimizing Small Language Models for efficiency
-- 🏗️ **System Design** - Architecting scalable and maintainable systems
-- 🎯 **Product-focused Engineering** - Delivering value-driven solutions
+- **LLM Integration** - Building intelligent applications with Large Language Models
+- **RAG Architecture** - Implementing Retrieval-Augmented Generation systems
+- **SLM Optimization** - Optimizing Small Language Models for efficiency
+- **System Design** - Architecting scalable and maintainable systems
+- **Product-focused Engineering** - Delivering value-driven solutions
